@@ -109,6 +109,6 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, SciPy
 
 Author
 Jaydip Singh
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/jaydip-singh-990626159/
 Email: jaydipsingh954@gmail.com
    
