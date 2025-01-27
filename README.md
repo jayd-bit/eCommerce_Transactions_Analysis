@@ -86,3 +86,29 @@ This project successfully analyzed e-commerce transaction data to gain valuable 
 1. **Clone the repository:**
    ```bash
    git clone <repository_url>
+
+├── data/  
+│   ├── Customers.csv  
+│   ├── Products.csv  
+│   ├── Transactions.csv  
+├── notebooks/  
+│   ├── EDA.ipynb  
+│   ├── Lookalike_Model.ipynb  
+│   ├── Clustering.ipynb  
+├── reports/  
+│   ├── EDA_Report.pdf  
+│   ├── Clustering_Report.pdf  
+├── Lookalike.csv  
+├── README.md  
+├── requirements.txt  
+
+Tools & Libraries
+Programming Language: Python
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, SciPy
+
+
+Author
+Jaydip Singh
+LinkedIn
+Email: jaydipsingh954@gmail.com
+   
